@@ -12,6 +12,8 @@ class Car{
 
     Drive()
     {
+        console.log("This is a manual car")
+        console.log("=========================")
         console.log("Engine start")
         console.log("Press clutch")
         console.log("Shift gear")

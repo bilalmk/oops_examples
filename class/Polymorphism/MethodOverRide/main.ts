@@ -185,6 +185,8 @@ Now, any company can use the AutoMaticCar class to create instances of automatic
 */
 class AutoMaticCar extends Car{
     Drive(){
+        console.log("This is an automatic car")
+        console.log("=========================")
         console.log("Engine start")
         console.log("Increase Speed")
         console.log("car start running")
